@@ -12,7 +12,9 @@ Streamline conversations, boost productivity, and stay connected effortlessly. W
 
 ## Tech Stack
 
-**Client:** React, Material UI, react-redux/RTK, nodeJs, ExpressJs, MongoDB
+**Client:** React, Material UI, react-redux/RTK
+**Server** nodeJs, ExpressJs
+**Database** MongoDB
 
 
 
