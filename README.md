@@ -1,4 +1,3 @@
-
 # Chatify (Chat Application)
 
 🚀 Welcome to Chatify: Where Chat Meets Efficiency! 💬
