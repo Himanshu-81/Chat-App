@@ -1,4 +1,21 @@
 
+# Chatify (Chat Application)
+
+🚀 Welcome to Chatify: Where Chat Meets Efficiency! 💬
+
+Streamline conversations, boost productivity, and stay connected effortlessly. With customizable features, real-time updates, and intuitive design, managing tasks has never been easier. Join now and experience the future of chatting! 📱✨
+
+## Authors
+
+- [@Himanshu-811](https://github.com/Himanshu-81)
+
+
+## Tech Stack
+
+**Client:** React, Material UI, react-redux/RTK, nodeJs, ExpressJs, MongoDB
+
+
+
 ## Run Locally
 
 Clone the project
