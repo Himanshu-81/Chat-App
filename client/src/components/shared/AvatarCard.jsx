@@ -30,5 +30,3 @@ const AvatarCard = ({ avatar = [], max = 4 }) => {
 };
 
 export default AvatarCard;
-
-// timestamp 2:12:54

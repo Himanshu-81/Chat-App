@@ -16,3 +16,33 @@ export const sampleChats = [
     members: ["1", "2"],
   },
 ];
+
+export const sampleUsers = [
+  {
+    avatar: "https://images4.alphacoders.com/233/233958.jpg",
+    name: "John Doe",
+    _id: "1",
+  },
+  {
+    avatar: "https://images4.alphacoders.com/233/233958.jpg",
+    name: "John Doe",
+    _id: "2",
+  },
+];
+
+export const sampleNofications = [
+  {
+    sender: {
+      avatar: "https://images4.alphacoders.com/233/233958.jpg",
+      name: "John Doe",
+    },
+    _id: "1",
+  },
+  {
+    sender: {
+      avatar: "https://images4.alphacoders.com/233/233958.jpg",
+      name: "John Doe",
+    },
+    _id: "2",
+  },
+];
