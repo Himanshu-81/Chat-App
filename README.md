@@ -1,5 +1,6 @@
-
 # Chatify (Chat Application)
+
+## The Project is still in progress
 
 🚀 Welcome to Chatify: Where Chat Meets Efficiency! 💬
 
@@ -9,7 +10,6 @@ Streamline conversations, boost productivity, and stay connected effortlessly. W
 
 - [@Himanshu-811](https://github.com/Himanshu-81)
 
-
 ## Tech Stack
 
 **Client:** React, Material UI, react-redux/RTK
@@ -17,8 +17,6 @@ Streamline conversations, boost productivity, and stay connected effortlessly. W
 **Server** nodeJs, ExpressJs
 
 **Database** MongoDB
-
-
 
 ## Run Locally
 
@@ -28,7 +26,7 @@ Clone the project
   git clone https://github.com/Himanshu-81/Chat-App.git
 ```
 
-Go to the project directory 
+Go to the project directory
 
 ### To run project locally:
 

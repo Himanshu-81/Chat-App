@@ -5,3 +5,5 @@ const MessageComponent = () => {
 };
 
 export default MessageComponent;
+
+//Stating the message component 3:16
