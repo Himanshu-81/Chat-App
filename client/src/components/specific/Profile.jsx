@@ -11,6 +11,7 @@ const Profile = () => {
   return (
     <Stack spacing={"2rem"} direction={"column"} alignItems={"center"}>
       <Avatar
+        src="https://i.pinimg.com/474x/13/7e/de/137edeca70ddd731b834f9b2fb4eeaa4.jpg"
         sx={{
           width: 200,
           height: 200,
@@ -19,7 +20,10 @@ const Profile = () => {
           border: "5px solid white",
         }}
       />
-      <ProfileCard heading={"Bio"} text={"This is the text"} />
+      <ProfileCard
+        heading={"Bio"}
+        text={"Don’t tell anyone, but I’m a ninja."}
+      />
       <ProfileCard
         heading={"Username"}
         text={"himanshu.081"}

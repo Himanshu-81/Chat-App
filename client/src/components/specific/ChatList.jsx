@@ -1,6 +1,7 @@
 import React from "react";
 import { Stack } from "@mui/material";
 import ChatItem from "../shared/ChatItem";
+import { lightGray } from "../../constants/color";
 
 const ChatList = ({
   w = "100%",
@@ -16,7 +17,7 @@ const ChatList = ({
   handleDeleteChat,
 }) => {
   return (
-    <Stack width={w} direction={"column"}>
+    <Stack width={w} direction={"column"} bgcolor={lightGray} height={"100%"}>
       {chats?.map((data, index) => {
         const { avatar, name, _id, groupChat, members } = data;
 

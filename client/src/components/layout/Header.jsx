@@ -59,12 +59,12 @@ const Header = () => {
         <AppBar position="static" sx={{ bgcolor: orange }}>
           <Toolbar>
             <Typography
-              variant="h6"
+              variant="h5"
               sx={{
                 display: { xs: "none", sm: "block" },
               }}
             >
-              Hallo
+              Chatify
             </Typography>
             <Box
               sx={{
