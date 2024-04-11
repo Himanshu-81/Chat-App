@@ -8,7 +8,7 @@ import {
   Typography,
 } from "@mui/material";
 import React, { memo } from "react";
-import { sampleNofications } from "../../constants/sameData";
+import { sampleNofications } from "../../constants/sampleData";
 
 const Notification = () => {
   const friendRequestHandler = ({ _id, accept }) => {};

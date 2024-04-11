@@ -8,7 +8,7 @@ import {
   Typography,
 } from "@mui/material";
 import React, { useState } from "react";
-import { sampleUsers } from "../../constants/sameData";
+import { sampleUsers } from "../../constants/sampleData";
 import UserItem from "../shared/UserItem";
 
 const NewGroups = () => {

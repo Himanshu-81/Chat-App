@@ -49,12 +49,7 @@ export const sampleNofications = [
 
 export const sampleMessage = [
   {
-    attachments: [
-      {
-        public_id: "ashd",
-        url: "https://images4.alphacoders.com/233/233958.jpg",
-      },
-    ],
+    attachments: [],
     content: "This is the test sample message",
     _id: "fskjlsfd",
     sender: {
@@ -62,7 +57,7 @@ export const sampleMessage = [
       name: "Sender",
     },
     chat: "chatId",
-    createdAt: "10 april 2024",
+    createdAt: "2024-02-12T10:41:30.630Z",
   },
   {
     attachments: [
@@ -71,13 +66,12 @@ export const sampleMessage = [
         url: "https://images4.alphacoders.com/233/233958.jpg",
       },
     ],
-    content: "This is the test sample messagefd",
     _id: "fskjlsfdfdf",
     sender: {
       _id: "fjslfd",
       name: "Sender",
     },
     chat: "chatIdfd",
-    createdAt: "10 april 2024",
+    createdAt: "2024-02-12T10:41:30.630Z",
   },
 ];

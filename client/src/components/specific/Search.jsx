@@ -10,7 +10,7 @@ import {
 import { useInputValidation } from "6pp";
 import { Search as SearchIcon } from "@mui/icons-material";
 import UserItem from "../shared/UserItem";
-import { sampleUsers } from "../../constants/sameData";
+import { sampleUsers } from "../../constants/sampleData";
 
 const Search = () => {
   const [users, setUsers] = useState(sampleUsers);
