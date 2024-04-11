@@ -46,3 +46,38 @@ export const sampleNofications = [
     _id: "2",
   },
 ];
+
+export const sampleMessage = [
+  {
+    attachments: [
+      {
+        public_id: "ashd",
+        url: "https://images4.alphacoders.com/233/233958.jpg",
+      },
+    ],
+    content: "This is the test sample message",
+    _id: "fskjlsfd",
+    sender: {
+      _id: "user._id",
+      name: "Sender",
+    },
+    chat: "chatId",
+    createdAt: "10 april 2024",
+  },
+  {
+    attachments: [
+      {
+        public_id: "ashdfdf",
+        url: "https://images4.alphacoders.com/233/233958.jpg",
+      },
+    ],
+    content: "This is the test sample messagefd",
+    _id: "fskjlsfdfdf",
+    sender: {
+      _id: "fjslfd",
+      name: "Sender",
+    },
+    chat: "chatIdfd",
+    createdAt: "10 april 2024",
+  },
+];
