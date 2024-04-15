@@ -37,9 +37,8 @@ const Login = () => {
   return (
     <div
       style={{
-        background: "rgb(42,168,255)",
-        background:
-          "radial-gradient(circle, rgba(42,168,255,1) 32%, rgba(31,16,117,1) 100%)",
+        background: "#F2F1EF",
+        background: "radial-gradient(at right bottom, #F2F1EF, #E9A751)",
       }}
     >
       <Container

@@ -12,10 +12,10 @@ import { sampleUsers } from "../../constants/sampleData";
 import UserItem from "../shared/UserItem";
 
 const NewGroups = () => {
+  const groupName = useInputValidation("");
+
   const [members, setMembers] = useState(sampleUsers);
   const [selectedMemebers, setSelectedMembers] = useState([]);
-
-  const groupName = useInputValidation("");
 
   const selectMemberHandler = (id) => {
     setSelectedMembers((prev) =>
